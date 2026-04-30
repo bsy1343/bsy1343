@@ -55,108 +55,34 @@ KT 차세대 영업 BSS PoC · **SA**로 공통 리딩 (UI·ESB·IMDG·PO·형�
 
 ## 🛠 Tech Stack
 
-### Languages
+### Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### Backend & Framework
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Data JDBC](https://img.shields.io/badge/Spring_Data_JDBC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
-![iBatis / MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=flat-square)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-BC1B40?style=flat-square)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Quartz](https://img.shields.io/badge/Quartz-FF6B35?style=flat-square)
+![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=flat-square)
 
-### API & Security
-
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-2C5BB4?style=flat-square&logo=oauth&logoColor=white)
-
-### Testing
-
-![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
-![AssertJ](https://img.shields.io/badge/AssertJ-1E88E5?style=flat-square)
-
-### Frontend & Enterprise UI
-
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-3D72D7?style=flat-square&logo=htmx&logoColor=white)
-![Nexacro](https://img.shields.io/badge/Nexacro_14/17-1E88E5?style=flat-square)
-![WebSquare5](https://img.shields.io/badge/WebSquare5-555?style=flat-square)
-![InnoRules](https://img.shields.io/badge/InnoRules-555?style=flat-square)
-![ProObject](https://img.shields.io/badge/ProObject-555?style=flat-square)
-![xFrame / Anyframe](https://img.shields.io/badge/xFrame_/_Anyframe-555?style=flat-square)
-
-### Cloud & Container
+### Cloud Native
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure AKS](https://img.shields.io/badge/Azure_AKS-326CE5?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure EntraID](https://img.shields.io/badge/Azure_Entra_ID-0078D4?style=flat-square&logo=microsoft-entra-id&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white)
-![OKD](https://img.shields.io/badge/OKD-D71F00?style=flat-square&logo=red-hat&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Skaffold](https://img.shields.io/badge/Skaffold-3DDC84?style=flat-square)
-![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-### Messaging & Cache
-
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![IMDG](https://img.shields.io/badge/IMDG-FF6B35?style=flat-square)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Tibero](https://img.shields.io/badge/Tibero-1E88E5?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Workflow & Batch
+### Data & Workflow
 
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Quartz](https://img.shields.io/badge/Quartz-FF6B35?style=flat-square)
-![Rundeck](https://img.shields.io/badge/Rundeck-F73F39?style=flat-square&logo=rundeck&logoColor=white)
-
-### Observability & Monitoring
-
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
-![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-### CI / CD & Code Quality
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![GHAS](https://img.shields.io/badge/GitHub_Advanced_Security-181717?style=flat-square&logo=github&logoColor=white)
-![CodeEye](https://img.shields.io/badge/CodeEye-555?style=flat-square)
-![Sparrow](https://img.shields.io/badge/Sparrow-555?style=flat-square)
-![Nexus](https://img.shields.io/badge/Nexus_Repository-1B79BD?style=flat-square&logo=sonatype&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ### AI / LLM
 
@@ -164,18 +90,18 @@ KT 차세대 영업 BSS PoC · **SA**로 공통 리딩 (UI·ESB·IMDG·PO·형�
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Open WebUI](https://img.shields.io/badge/Open_WebUI-000000?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama_3.1-4A90E2?style=flat-square&logo=meta&logoColor=white)
+![Llama 3.1](https://img.shields.io/badge/Llama_3.1-4A90E2?style=flat-square&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-2F855A?style=flat-square)
 
-### Collaboration & VCS
+### CI / CD
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+
+<sub>**Also experienced**: Spring Security · Spring Data JDBC · JPA · OpenFeign · Lombok · Swagger · OpenAPI · JWT · OAuth 2.0 · JUnit 5 · Mockito · Thymeleaf · HTMX · Nexacro · WebSquare5 · InnoRules · ProObject · iBatis · Anyframe · Azure AKS · Azure EntraID · OpenShift · Helm · Skaffold · Kustomize · Tibero · MySQL · IMDG · Rundeck · Kibana · Logstash · Prometheus · Grafana · GHAS · CodeEye · Sparrow · Nexus · Jira · Confluence</sub>
 
 ---
 
