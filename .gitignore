@@ -1,0 +1,24 @@
+# Personal documents (resumes, portfolios with private info)
+docs/
+
+# README samples (working drafts)
+samples/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Tooling
+.serena/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if added later)
+node_modules/
+
+# Logs
+*.log
