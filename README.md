@@ -16,14 +16,14 @@
 
 ## 🏆 Career Highlights
 
-- **잇팩 S-CRM** *(2015 ~ 2018)*
-    — 국내 주요 대형 금융사 6곳 SI · **생명보험 4사 + 증권 + 상호금융** 3개 도메인 · CTI · PDS · Smart Script 콜센터 풀스택 개발
-- **Samsung G-MES** *(2018 ~ 2023)*
-    — **삼성전자 글로벌 직영 생산법인 30여 곳 / 20여 개국에 적용된 전사 표준 MES** (2016 IDG CIO 100 Award) · **AA**로 G-MES 2.0 → 4.0 고도화 개발 + **7개국 법인 확산** 담당 (멕시코 1개월 출장)
-- **KT ICIS Tr** *(2023 ~ 2025)*
-    — KT 영업전산의 **MSA 클라우드 네이티브 전환** (2,900만 가입자 / 1,000억 / 37.5개월 / 400명) · **SA · 본부 배치 거버넌스 PL**
-- **차세대 KOS PoC** *(2025 ~ 현재)*
-    — KT 차세대 영업 BSS PoC · **SA**로 공통 리딩 (UI·ESB·IMDG·PO·형상관리) + AI Agent 운영 자동화 + Azure Migration
+- **잇팩 S-CRM** *(2015 ~ 2018)*<br>
+  국내 주요 대형 금융사 6곳 SI · **생명보험 4사 + 증권 + 상호금융** 3개 도메인 · CTI · PDS · Smart Script 콜센터 풀스택 개발
+- **Samsung G-MES** *(2018 ~ 2023)*<br>
+  **삼성전자 글로벌 직영 생산법인 30여 곳 / 20여 개국에 적용된 전사 표준 MES** (2016 IDG CIO 100 Award) · **AA**로 G-MES 2.0 → 4.0 고도화 개발 + **7개국 법인 확산** 담당 (멕시코 1개월 출장)
+- **KT ICIS Tr** *(2023 ~ 2025)*<br>
+  KT 영업전산의 **MSA 클라우드 네이티브 전환** (2,900만 가입자 / 1,000억 / 37.5개월 / 400명) · **SA · 본부 배치 거버넌스 PL**
+- **차세대 KOS PoC** *(2025 ~ 현재)*<br>
+  KT 차세대 영업 BSS PoC · **SA**로 공통 리딩 (UI·ESB·IMDG·PO·형상관리) + AI Agent 운영 자동화 + Azure Migration
 
 ---
 
@@ -232,6 +232,24 @@
 - **본부 배치 거버넌스 고도화 PL** — K-ICIS 천안/탄방 멀티 클러스터 + Azure AKS (kos-bill) 통합
 - **Java 1.7 → 17** 마이그레이션 · **Keycloak ↔ Azure EntraID** SSO 연동
 
+### 🤖 AI-Ops — 자연어로 제어하는 운영
+
+> *"운영도 코드처럼, 대화로 시키면 어떨까?"*
+> 학습 겸 개인적으로 시작 → 팀 시연 → 실 운영 적용. **단독 설계·개발.**
+
+```
+Open WebUI (OSS ChatBot)
+    ├─ RAG: Documents · ChromaDB · Embeddings (사내 문서 학습)
+    ├─ MCP: Elasticsearch · Confluence · Kubernetes · GitLab · ArgoCD
+    └─ LLM: Llama 3.1:8b (Local) · KT DS AI:ON · Azure OpenAI (다중 라우팅)
+            ↓
+       자연어로 DevPilot · NEONE · K8s · ES 제어
+```
+
+- DevPilot의 워크플로우 가이드를 **자연어로 질의** → 응답
+- NEONE 장애 분석 보고서를 **대화형으로 생성** (예: "ORDER-API 시스템 로그 분석 보고서")
+- K8s 상태, ES 로그, Confluence 문서 검색을 **단일 인터페이스로 통합**
+
 ### 🌍 Samsung G-MES — Global Smart Manufacturing
 
 > **삼성전자 글로벌 직영 생산법인 30여 곳 / 20여 개국** (브라질·멕시코·폴란드·베트남·인도 등) 에 구축·적용된 핵심 제조 IT 시스템.
@@ -259,24 +277,6 @@
 
 - **7개국 법인 확산 직접 담당** — 베트남 · 태국 · 멕시코 *(1개월 현지 출장)* · 폴란드 · 말레이시아 · 인도 · 중국
 - 각 법인별 환경 차이 / 요구사항 대응, 현지 인력과의 협업
-
-### 🤖 AI-Ops — 자연어로 제어하는 운영
-
-> *"운영도 코드처럼, 대화로 시키면 어떨까?"*
-> 학습 겸 개인적으로 시작 → 팀 시연 → 실 운영 적용. **단독 설계·개발.**
-
-```
-Open WebUI (OSS ChatBot)
-    ├─ RAG: Documents · ChromaDB · Embeddings (사내 문서 학습)
-    ├─ MCP: Elasticsearch · Confluence · Kubernetes · GitLab · ArgoCD
-    └─ LLM: Llama 3.1:8b (Local) · KT DS AI:ON · Azure OpenAI (다중 라우팅)
-            ↓
-       자연어로 DevPilot · NEONE · K8s · ES 제어
-```
-
-- DevPilot의 워크플로우 가이드를 **자연어로 질의** → 응답
-- NEONE 장애 분석 보고서를 **대화형으로 생성** (예: "ORDER-API 시스템 로그 분석 보고서")
-- K8s 상태, ES 로그, Confluence 문서 검색을 **단일 인터페이스로 통합**
 
 ### 🏦 잇팩 S-CRM — 금융권 콜센터 시스템 풀스택 SI
 
