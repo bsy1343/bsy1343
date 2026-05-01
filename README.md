@@ -258,23 +258,14 @@ GitLab · GitHub · Jenkins · GitLab CI · GitHub Actions · Harbor · Nexus ·
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bsy1343&theme=github_dark" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bsy1343&theme=transparent" alt="Profile Details"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsy1343&theme=dark&hide_border=true&date_format=Y.n.j" height="180" alt="Streak Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bsy1343&theme=github_dark&exclude=html" height="180" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bsy1343&theme=transparent" height="180" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bsy1343&theme=transparent&utcOffset=9" height="180" alt="Productive Time"/>
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bsy1343&theme=github_dark" height="180" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bsy1343&theme=github_dark&utcOffset=9" height="180" alt="Productive Time"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsy1343&theme=github-compact&hide_border=true&area=true&radius=8" alt="Activity Graph"/>
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=bsy1343&theme=onedark&no-frame=true&column=7&margin-w=15" alt="Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsy1343&theme=react-dark&hide_border=true&area=true&radius=8&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=58a6ff" alt="Activity Graph"/>
 </p>
