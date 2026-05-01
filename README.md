@@ -267,5 +267,5 @@ GitLab · GitHub · Jenkins · GitLab CI · GitHub Actions · Harbor · Nexus ·
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsy1343&theme=react-dark&hide_border=true&area=true&radius=8&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=58a6ff" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsy1343&theme=react-dark&hide_border=true&area=true&radius=8&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&title_color=ffffff" alt="Activity Graph"/>
 </p>
