@@ -107,7 +107,10 @@ KT 영업전산의 **MSA 클라우드 네이티브 전환** (2,900만 가입자 
 
 ## ⭐ Project Highlights
 
-### 🟦 KT ICIS — 2,900만 가입자 BSS의 클라우드 네이티브 전환
+<details>
+<summary><b>🟦 KT ICIS — 2,900만 가입자 BSS의 클라우드 네이티브 전환</b> · <sub>1,000억 / 37.5개월 / 400명 · MSA 전환 SA</sub></summary>
+
+<br>
 
 > **2002년 구축**되어 20년 넘게 운영된 KT의 핵심 영업전산 (Integrated Customer Information System).
 > 모놀리식 → MSA 클라우드 네이티브로 전환하는 **1,000억 규모 / 37.5개월 / 400여명** 프로젝트.
@@ -118,7 +121,12 @@ KT 영업전산의 **MSA 클라우드 네이티브 전환** (2,900만 가입자 
 - **본부 배치 거버넌스 고도화 PL** — K-ICIS 천안/탄방 멀티 클러스터 + Azure AKS (kos-bill) 통합
 - **Java 1.7 → 17** 마이그레이션 · **Keycloak ↔ Azure EntraID** SSO 연동
 
-### 🤖 AI-Ops — 자연어로 제어하는 운영
+</details>
+
+<details>
+<summary><b>🤖 AI-Ops — 자연어로 제어하는 운영</b> · <sub>Open WebUI + Local LLM + MCP로 DevPilot · NEONE · K8s 자연어 제어 (단독 설계·개발)</sub></summary>
+
+<br>
 
 > *"운영도 코드처럼, 대화로 시키면 어떨까?"*
 > 학습 겸 개인적으로 시작 → 팀 시연 → 실 운영 적용. **단독 설계·개발.**
@@ -136,7 +144,12 @@ Open WebUI (OSS ChatBot)
 - NEONE 장애 분석 보고서를 **대화형으로 생성** (예: "ORDER-API 시스템 로그 분석 보고서")
 - K8s 상태, ES 로그, Confluence 문서 검색을 **단일 인터페이스로 통합**
 
-### 🌍 Samsung G-MES 4.0 — Global Smart Manufacturing
+</details>
+
+<details>
+<summary><b>🌍 Samsung G-MES 4.0 — Global Smart Manufacturing</b> · <sub>삼성전자 글로벌 표준 MES, 30여 법인 / 20여 개국 적용 · 7개국 확산 AA</sub></summary>
+
+<br>
 
 > **삼성전자 글로벌 직영 생산법인 30여 곳 / 20여 개국** (브라질·멕시코·폴란드·베트남·인도 등) 에 구축·적용된 핵심 제조 IT 시스템.
 > Samsung SDS가 개발한 **삼성전자 전사 글로벌 표준 MES** 로, **2016년 IDG 'CIO 100 Awards' 수상**.
@@ -164,7 +177,12 @@ Open WebUI (OSS ChatBot)
 - **7개국 법인 확산 직접 담당** — 베트남 · 태국 · 멕시코 *(1개월 현지 출장)* · 폴란드 · 말레이시아 · 인도 · 중국
 - 각 법인별 환경 차이 / 요구사항 대응, 현지 인력과의 협업
 
-### 🏦 잇팩 S-CRM — 금융권 콜센터 시스템 풀스택 SI
+</details>
+
+<details>
+<summary><b>🏦 잇팩 S-CRM — 금융권 콜센터 시스템 풀스택 SI</b> · <sub>3년간 금융사 6곳 / 3개 도메인 (생명보험·증권·상호금융) 콜센터 풀스택</sub></summary>
+
+<br>
 
 > **3년간 국내 주요 금융사 6곳**의 콜센터 / CRM 시스템 SI를 수행 — 생명보험·증권·상호금융 **3개 도메인**을 동시에 경험.
 > 보험 텔레마케팅의 핵심 인프라인 **CTI · PDS · Smart Script** 부터 자사 솔루션 개발까지 콜센터 풀스택 경험.
@@ -184,7 +202,12 @@ Open WebUI (OSS ChatBot)
 - **자사 솔루션 W2UI 자체 개발** — 무거운 엔터프라이즈 UI 도구(투비소프트 Nexacro · MiPlatform · XPlatform) 의존도에서 **JavaScript 기반 경량 솔루션**으로 전환
 - **다양한 UI 프레임워크 동시 경험** — Nexacro14 · WebSquare5 · xPlatform · MiPlatform · w2ui · iBatis · Spring
 
-### 🛠 DevForge — Self-hosted Internal Developer Platform
+</details>
+
+<details>
+<summary><b>🛠 DevForge — Self-hosted Internal Developer Platform</b> · <sub>Git → CI → CD → 관찰성 단일 UI 통제 · Saga 기반 자동화 (단독 구현 WIP)</sub></summary>
+
+<br>
 
 > **Git → CI → CD → 관찰성** 전 과정을 **단일 UI로 통제** 하는 셀프호스팅 IDP.
 > **DEV · TEST · SIT · PRD 4환경 이미지 프로모션** + **ArgoCD GitOps** 기반 안전 배포.
@@ -211,6 +234,8 @@ Open WebUI (OSS ChatBot)
 GitLab · GitHub · Jenkins · GitLab CI · GitHub Actions · Harbor · Nexus · ArgoCD · Kubernetes · SonarQube · Sparrow · CodeEyes · Slack · Keycloak OIDC · LDAP · OpenTelemetry · Artifactory
 
 **Stack** — Spring Boot 3.5 · JDK 21 · Thymeleaf · HTMX · SSE · ArgoCD GitOps
+
+</details>
 
 ---
 
