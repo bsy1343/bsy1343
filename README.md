@@ -258,14 +258,6 @@ GitLab · GitHub · Jenkins · GitLab CI · GitHub Actions · Harbor · Nexus ·
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bsy1343&theme=default" alt="Profile Details"/>
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bsy1343&theme=default" height="180" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bsy1343&theme=default&utcOffset=9" height="180" alt="Productive Time"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsy1343&theme=react-dark&hide_border=true&area=true&radius=8&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&title_color=ffffff" alt="Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bsy1343&theme=nord_dark" height="160" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bsy1343&theme=nord_dark" height="160" alt="GitHub Stats"/>
 </p>
