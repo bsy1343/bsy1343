@@ -121,6 +121,10 @@ KT 영업전산의 **MSA 클라우드 네이티브 전환** (2,900만 가입자 
 - **본부 배치 거버넌스 고도화 PL** — K-ICIS 천안/탄방 멀티 클러스터 + Azure AKS (kos-bill) 통합
 - **Java 1.7 → 17** 마이그레이션 · **Keycloak ↔ Azure EntraID** SSO 연동
 
+**관련 자료** — KT DS ICT Tech 4U 팀 블로그
+- [클라우드 네이티브 개발과 운영을 한곳에 — DevPilot](https://inblog.ai/ktds-ict-tech4u/클라우드-네이티브-개발과-운영을-한곳에-devpilot-과-함께-새로운-가능성을-열어보세요--27475)
+- [클라우드 네이티브 모니터링의 시작 — NEONE](https://inblog.ai/ktds-ict-tech4u/클라우드-네이티브-모니터링의-시작-neone-42174)
+
 </details>
 
 <details>
@@ -257,11 +261,3 @@ GitLab · GitHub · Jenkins · GitLab CI · GitHub Actions · Harbor · Nexus ·
   <img src="https://github-readme-stats.vercel.app/api?username=bsy1343&show_icons=true&theme=dark&hide_border=true" height="160" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsy1343&layout=compact&theme=dark&hide_border=true" height="160" alt="Top Languages"/>
 </p>
-
----
-
-## 📚 References
-
-**Team Tech Blog (KT DS ICT Tech 4U)**
-- [클라우드 네이티브 개발과 운영을 한곳에 — DevPilot](https://inblog.ai/ktds-ict-tech4u/클라우드-네이티브-개발과-운영을-한곳에-devpilot-과-함께-새로운-가능성을-열어보세요--27475)
-- [클라우드 네이티브 모니터링의 시작 — NEONE](https://inblog.ai/ktds-ict-tech4u/클라우드-네이티브-모니터링의-시작-neone-42174)
