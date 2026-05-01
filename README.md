@@ -277,5 +277,9 @@ GitLab · GitHub · Jenkins · GitLab CI · GitHub Actions · Harbor · Nexus ·
 </p>
 
 <p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsy1343&theme=github-compact&hide_border=true&area=true&radius=8" alt="Activity Graph"/>
+</p>
+
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=bsy1343&theme=onedark&no-frame=true&column=7&margin-w=15" alt="Trophies"/>
 </p>
