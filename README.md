@@ -6,6 +6,7 @@
 > 현재 KT DS에서 **차세대 KOS PoC와 공통 리딩**을 수행하면서,
 > 개인적으로는 **사내 개발자 생산성을 끌어올리는 IDP / AI-Ops 플랫폼**을 만들고 있습니다.
 
+
 [![Email](https://img.shields.io/badge/Email-bsy1343@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bsy1343@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sy44baek-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sy44baek/)
 [![DevForge](https://img.shields.io/badge/DevForge-devforge.sybaek.dev-2F855A?style=flat-square&logo=spring-boot&logoColor=white)](https://devforge.sybaek.dev)
