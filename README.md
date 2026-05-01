@@ -8,7 +8,7 @@
 
 
 [![Email](https://img.shields.io/badge/Email-bsy1343@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bsy1343@naver.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sy44baek-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sy44baek/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bsy1343-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bsy1343/)
 [![DevForge](https://img.shields.io/badge/DevForge-devforge.sybaek.dev-2F855A?style=flat-square&logo=spring-boot&logoColor=white)](https://devforge.sybaek.dev)
 
 ---
@@ -258,6 +258,6 @@ GitLab · GitHub · Jenkins · GitLab CI · GitHub Actions · Harbor · Nexus ·
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bsy1343&theme=nord_dark" height="160" alt="Profile Details"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bsy1343&theme=nord_dark" height="160" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bsy1343&theme=nord_dark" height="160" alt="Profile Details"/>
 </p>
