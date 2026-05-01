@@ -2,6 +2,10 @@
 
 **Software Architect, Application Architect, Cloud Native Architect** @ KT DS · **12년차 개발자**
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&width=620&lines=Software+Architect+%40+KT+DS;Cloud+Native+%C2%B7+AI-Ops+%C2%B7+IDP+Builder;12%EB%85%84%EC%B0%A8+%C2%B7+BSS+%C2%B7+MES+%C2%B7+%EA%B8%88%EC%9C%B5+SI" alt="role tagline" />
+</p>
+
 > 국내 주요 금융사 SI · 글로벌 제조 MES · 대규모 통신 BSS의 MSA 전환을 거쳐,
 > 현재 KT DS에서 **차세대 KOS PoC와 공통 리딩**을 수행하면서,
 > 개인적으로는 **사내 개발자 생산성을 끌어올리는 IDP / AI-Ops 플랫폼**을 만들고 있습니다.
@@ -10,6 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-bsy1343@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bsy1343@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sy44baek-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sy44baek/)
 [![DevForge](https://img.shields.io/badge/DevForge-devforge.sybaek.dev-2F855A?style=flat-square&logo=spring-boot&logoColor=white)](https://devforge.sybaek.dev)
+[![Profile views](https://komarev.com/ghpvc/?username=bsy1343&label=Profile+views&color=2F855A&style=flat-square)](https://github.com/bsy1343)
 
 ---
 
