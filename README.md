@@ -92,6 +92,7 @@ KT 영업전산의 **MSA 클라우드 네이티브 전환** (2,900만 가입자 
 ![Llama 3.1](https://img.shields.io/badge/Llama_3.1-4A90E2?style=flat-square&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-2F855A?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ### CI / CD
 
