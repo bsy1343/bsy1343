@@ -248,6 +248,7 @@ GitLab · GitHub · Jenkins · GitLab CI · GitHub Actions · Harbor · Nexus ·
 
 | 자격증 | 발급기관 | 취득 |
 | --- | --- | --- |
+| **Kubernetes and Cloud Native Associate (KCNA)** | The Linux Foundation | 2026.10 |
 | **Certified Kubernetes Administrator (CKA)** | The Linux Foundation | 2024.09 |
 | **AWS Certified Solutions Architect — Associate** | Amazon Web Services | 2022.05 |
 | **Oracle Certified Foundations Associate** | Oracle | 2022.03 |
