@@ -6,11 +6,14 @@
 > 현재 KT DS에서 **차세대 KOS PoC와 공통 리딩**을 수행하면서,
 > 개인적으로는 **사내 개발자 생산성을 끌어올리는 IDP / AI-Ops 플랫폼**을 만들고 있습니다.
 
-
-[![Email](https://img.shields.io/badge/Email-bsy1343@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bsy1343@naver.com)
 [![Email](https://img.shields.io/badge/Email-bsy1343%40naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bsy1343@naver.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bsy1343-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bsy1343/)
-<!-- [![DevForge](https://img.shields.io/badge/DevForge-devforge.sybaek.dev-2F855A?style=flat-square&logo=spring-boot&logoColor=white)](https://devforge.sybaek.dev) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bsy1343-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bsy1343)
+
+### 🚀 Projects
+| Project | Description | Status |
+|---|---|---|
+| [**enjoeat**](https://enjoeat.com) | 체험단·캠핑 통합검색 서비스 | ![Live](https://img.shields.io/badge/Live-2EA44F?style=flat-square) |
+| [**DevForge**](https://devforge.sybaek.dev) | 셀프호스팅 IDP (Internal Developer Platform) | ![Demo](https://img.shields.io/badge/Demo-F0A500?style=flat-square) |
 
 ---
 
