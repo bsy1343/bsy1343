@@ -2,18 +2,18 @@
 
 **Software Architect, Application Architect, Cloud Native Architect** @ KT DS · **12년차 개발자**
 
-> 국내 주요 금융사 SI · 글로벌 제조 MES · 대규모 통신 BSS의 MSA 전환을 거쳐,
-> 현재 KT DS에서 **차세대 KOS PoC와 공통 리딩**을 수행하면서,
-> 개인적으로는 **사내 개발자 생산성을 끌어올리는 IDP / AI-Ops 플랫폼**을 만들고 있습니다.
+> 국내 금융사 SI, 글로벌 제조 MES, 대규모 통신 BSS의 MSA 전환을 거쳐 현재 KT DS에서 <b>차세대 KOS PoC와 공통 아키텍처</b>를 리딩하고 있습니다.
+>
+> 업무 밖에서는 개발자 생산성을 위한 <b>IDP 플랫폼(DevForge)</b>을 만들고, 체험단·캠핑 통합검색 서비스 <b>엔조잇(enjoeat)</b>을 직접 운영하고 있습니다.
 
 [![Email](https://img.shields.io/badge/Email-bsy1343%40naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bsy1343@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bsy1343-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bsy1343)
 
-### 🚀 Projects
-| Project | Description | Status |
-|---|---|---|
-| [**enjoeat**](https://enjoeat.com) | 체험단·캠핑 통합검색 서비스 | ![Live](https://img.shields.io/badge/Live-2EA44F?style=flat-square) |
-| [**DevForge**](https://devforge.sybaek.dev) | 셀프호스팅 IDP (Internal Developer Platform) | ![Demo](https://img.shields.io/badge/Demo-F0A500?style=flat-square) |
+### Projects
+
+🐹 [![엔조잇(enjoeat)](https://img.shields.io/badge/%EC%97%94%EC%A1%B0%EC%9E%87%28enjoeat%29-enjoeat.com-FF8A3D?style=flat-square)](https://enjoeat.com) ![Live](https://img.shields.io/badge/Live-2EA44F?style=flat-square)
+
+🛠️ [![DevForge](https://img.shields.io/badge/DevForge-devforge.sybaek.dev-7C3AED?style=flat-square)](https://devforge.sybaek.dev) ![Demo](https://img.shields.io/badge/Demo-F0A500?style=flat-square)
 
 ---
 
